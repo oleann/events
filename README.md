@@ -2,7 +2,7 @@
 
 ---
 
-[![Build status](http://https://github.com/a99fallen/events/workflows/Build/badge.svg)](http://https://github.com/a99fallen/events
+[![Build status](https://github.com/a99fallen/events/workflows/Build/badge.svg)](https://github.com/a99fallen/events
 
 ---
 
